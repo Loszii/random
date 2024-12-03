@@ -1,0 +1,12 @@
+Given a single command line argument for the name of text file in current directory, reads data about graph then computes the shortest paths between all pairs.
+Text file should be of form:
+
+# vertices
+vert1 vert2 weight
+vert1 vert2 weight
+vert1 vert2 weight
+.
+.
+.
+
+Time Complexity: θ(n^3)

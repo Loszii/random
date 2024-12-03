@@ -1,0 +1,1 @@
+Script that takes in two numbers and multiplies them using karatsuba fast multiplication. Place the two numbers as command line arguments. Time complexity: O(n^1.58).

@@ -1,5 +1,3 @@
-//Script that takes in two numbers and multiplies them using karatsuba fast multiplication
-
 #include <iostream>
 #include <chrono>
 using namespace std;
