@@ -1,0 +1,1 @@
+An assembly program to print an array similarly to printf.
