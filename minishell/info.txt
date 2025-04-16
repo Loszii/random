@@ -1,0 +1,1 @@
+Tiny home made shell for linux. Has a few custom built in commands like lp to list processes in sorted order. Other commands get executed via forking.
